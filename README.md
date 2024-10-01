@@ -3,18 +3,14 @@
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
-
 Explain what software engineering is and discuss its importance in the technology industry.
 Software Engineering systematically applies engineering principles, methods and tools to develop and maintain high-quality software systems, such as Apps and Websites. 
 Also, the importance of Software engineering is that it helps in the creation of new software that helps our day-to-day life
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 High-Level Programming Languages (1950s–1960s): The development of languages like FORTRAN and COBOL made programming more efficient by abstracting hardware complexity, allowing for easier coding and fewer errors.
-
 Waterfall Model (1970): The introduction of this structured, sequential approach brought the organization to large projects, though it lacked flexibility for changes during development.
-
 Agile Methodology (2001): Agile transformed software development by promoting iterative progress, adaptability, and collaboration, replacing rigid models like Waterfall with more dynamic approaches.
-
 
 List and briefly explain the phases of the Software Development Life Cycle.
 Requirements: Gathering and documenting user needs and system requirements.
@@ -23,7 +19,6 @@ Implementation: Writing code and building the software according to the design s
 Testing: Conducting various tests to ensure the software meets quality standards and functional requirements.
 Deployment: Releasing the software to users or customers.
 Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
-
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
@@ -52,8 +47,6 @@ Acceptance Testing is to test software against user requirements to ensure it me
 
 
 #Part 2: Introduction to AI and Prompt Engineering
-
-
 Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt engineering is the process of designing and refining the instructions or questions (prompts) given to AI models to get accurate and useful responses.
 Its importance lies in guiding AI to produce relevant, clear, and focused outputs. Well-crafted prompts improve the quality of interactions by reducing ambiguity, enhancing the model's performance, and ensuring the desired outcomes.
@@ -61,9 +54,7 @@ Its importance lies in guiding AI to produce relevant, clear, and focused output
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague prompt:
 "Tell me about cars."
-
 Improved prompt:
 "Explain the differences between electric and gasoline-powered cars in terms of environmental impact and cost efficiency."
-
 Why it's more effective:
 The improved prompt is clearer because it specifies the types of cars, focuses on particular aspects (environmental impact and cost efficiency), and provides a clear direction for the response. This helps ensure relevant and focused information is provided.
